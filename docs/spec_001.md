@@ -29,7 +29,7 @@
 Create and commit the following structure:
 
 ```plain
-mub/
+university/
   README.md
   docs/
     spec_001.md
